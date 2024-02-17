@@ -1,0 +1,27 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background-color: black;
+}
+
+.btn-cor {
+   background-color: rgb(63, 63, 63);
+   color: #fff;
+   font-weight: bold;
+}
+
+.btn-cor:hover {
+   background-color: rgb(176, 248, 7);
+   font-weight: bold;
+}
+
+.bg-cor {
+   background-color: rgb(39, 39, 39);
+   border: 0;
+}
+
+.cor-strong {
+   color: rgb(176, 248, 7);
+   font-size: 9pt;
+}
